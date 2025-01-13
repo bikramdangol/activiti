@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activiti:process-engine-configuration xmlns:activiti="http://activiti.org/schema/activiti">
+
+    <activiti:process-engine name="defaultActivitiEngine">
+        <activiti:history>full</activiti:history>
+    </activiti:process-engine>
+</activiti:process-engine-configuration>
